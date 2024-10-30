@@ -1,5 +1,5 @@
-👋Welcome to My GitHub! 
-Hello! I'm @MarijaBogeska a web development student with a passion for programming and design.
+Welcome to My GitHub! 
+👋Hello! I'm @MarijaBogeska a web development student with a passion for programming and design.
 I’m always excited about learning new skills 🌱, exploring innovative ideas, and creating unique digital experiences.
 About Me 🌟:
 📚 Learning Journey: Currently building my skills in web development and exploring programming languages.
