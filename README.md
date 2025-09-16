@@ -47,15 +47,10 @@ I'm @MarijaBogeska a web development student with a passion for programming and 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original-wordmark.svg" width="100" height="100" alt="Slack"  title="Slack"/>&nbsp;&nbsp;&nbsp;
 </p>
 
-
 # 📊 GitHub Stats:
 ![MarijaBogeska's Stats](https://github-readme-stats.vercel.app/api?username=MarijaBogeska&theme=algolia&show_icons=true&hide_border=false&count_private=true)&nbsp;&nbsp;&nbsp;
 ![](https://nirzak-streak-stats.vercel.app/?user=MarijaBogeska&theme=algolia&show_border=false)
-<div align=center>
-  
-  ![MarijaBogeska's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarijaBogeska&theme=algolia&show_icons=true&hide_border=false&layout=compact)
-  
-</div>
+![MarijaBogeska's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarijaBogeska&theme=algolia&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
