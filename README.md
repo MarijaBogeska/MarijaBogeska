@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=270&color=03045e&text=Full-Stack%20Web%20Developer&section=header&reversal=false&fontColor=FFF&animation=fadeIn&fontSize=40&textBg=false)
 
 # 💫 About Me:
-I'm @MarijaBogeska a web development student with a passion for programming and design. I’m always excited about learning new skills 🌱, exploring innovative ideas, and creating unique digital experiences.<br><br>About Me 🌟:<br><br>📚 Learning Journey: Currently building my skills in web development and exploring programming languages.<br><br>🎨 Design Enthusiast: I love creating minimalist and user-friendly designs that make an impact.<br><br>🤝 Collaborative & Communicative: I enjoy working with others, exchanging ideas, and bringing creative visions to life.<br><br>🌍 Adventurous Spirit: Always ready to embrace new challenges and adventures 🚀!<br><br>📫 Feel free to explore my projects and reach out—I’m always open to connecting with new people and discussing exciting opportunities!<br><br>⚡ Fun fact: My dream is to travel the world, learning about different cultures and, of course, trying local foods 🍜.
+I'm @MarijaBogeska a web development student with a passion for programming and design. I’m always excited about learning new skills 🌱, exploring innovative ideas, and creating unique digital experiences.<br><br>📚 Learning Journey: Currently building my skills in web development and exploring programming languages.<br><br>🎨 Design Enthusiast: I love creating minimalist and user-friendly designs that make an impact.<br><br>🤝 Collaborative & Communicative: I enjoy working with others, exchanging ideas, and bringing creative visions to life.<br><br>🌍 Adventurous Spirit: Always ready to embrace new challenges and adventures 🚀!<br><br>📫 Feel free to explore my projects and reach out—I’m always open to connecting with new people and discussing exciting opportunities!<br><br>⚡ Fun fact: My dream is to travel the world, learning about different cultures and, of course, trying local foods 🍜.
 
 
 # 💻 Tech Stack:
@@ -49,7 +49,7 @@ I'm @MarijaBogeska a web development student with a passion for programming and 
 
 # 📊 GitHub Stats:
 ![MarijaBogeska's Stats](https://github-readme-stats.vercel.app/api?username=MarijaBogeska&theme=algolia&show_icons=true&hide_border=false&count_private=true)&nbsp;&nbsp;&nbsp;
-![](https://nirzak-streak-stats.vercel.app/?user=MarijaBogeska&theme=algolia&show_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=MarijaBogeska&theme=algolia&show_border=false)<br>
 ![MarijaBogeska's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarijaBogeska&theme=algolia&show_icons=true&hide_border=false&layout=compact)
 
 ---
