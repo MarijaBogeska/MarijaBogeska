@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7029FF&height=200&section=header&text=Frontend%20%26%20Backend%20Explorer%20%7C%20Growing%20Every%20Day&fontSize=28&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=7029FF&height=200&section=header&text=%20Frontend%20and%20Backend%20Explorer%20%7C%20Growing%20Every%20Day%20&fontSize=36&fontColor=ffffff&textBg=true)
+
 
 
 # 💫 About Me:
