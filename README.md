@@ -48,7 +48,6 @@ I'm @MarijaBogeska a web development student with a passion for programming and 
 </p>
 
 # 📊 GitHub Stats:
-![MarijaBogeska's Stats](https://github-readme-stats.vercel.app/api?username=MarijaBogeska&theme=algolia&show_icons=true&hide_border=false&count_private=true)&nbsp;&nbsp;&nbsp;
 ![](https://nirzak-streak-stats.vercel.app/?user=MarijaBogeska&theme=algolia&show_border=false)<br>
 ![MarijaBogeska's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarijaBogeska&theme=algolia&show_icons=true&hide_border=false&layout=compact)
 
